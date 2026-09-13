@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: main-frontend
-          image: 614374457256.dkr.ecr.us-east-1.amazonaws.com/python-flask-frontend:6
+          image: 100808729866.dkr.ecr.us-east-1.amazonaws.com/python-flask-frontend:7
           ports:
             - containerPort: 80
           resources:
